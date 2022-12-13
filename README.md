@@ -6,10 +6,13 @@ In this project I use an LSTM neural network to generate Lo-Fi songs based off a
 When I study or do homework I typically listen to music. One of my go-to genres of music is Lo-Fi because it's usually very repetitive and makes for good focus music. Because of this repetitive nature it lends itself well to a machine learning task. Neural networks are typically pretty good at detecting patterns and replicating them so this task should be doable.
 
 ## Resources
+https://www.kaggle.com/datasets/zakarii/lofi-hip-hop-midi
 The first thing I needed to do this project was a data set, which I found on kaggle. The author of the data set also had a Jupyter notebook that they had used to demonstrate their work on the same problem. I read their article which they posted and used it as a proof of concept that this idea could work using a recurrent neural network. I didn't reference their code very often during the process of this project.
 
+https://github.com/pjreddie/dubnet/blob/main/hw2.ipynb
 Another resource I used was our implementation of a recurrent neural network for our homework assignment of text generation. My first attempt at this project was to modify this code to accept a different input and generate MIDI files as a result. Though I eventually changed to using Tensorflow instead of Pytorch, the code from class and my implementation from homework were helpful in determining the network architecture to use and training parameters.
 
+https://www.tensorflow.org/tutorials/audio/music_generation
 The last resource that I used was a tutorial on the Tensorflow website. One of their tutorials involved a very similar task. Throughout the process of writing the code for this project I referenced this tutorial to learn what tensorflow had available in its API since I had never worked with tensorflow before.
 
 ## Methodology
