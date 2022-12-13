@@ -38,3 +38,6 @@ One of the things this model was particularly bad at was determining the timing 
 ## Demo
 Examples of outputs and the code for this project can be found at this link: https://colab.research.google.com/drive/1A9_8PbFjlT0zrIJD6oSjbYXlE8iL6RQu?usp=sharing
 Several generated songs are at the bottom of the notebook, and you can also run the code yourself by downloading the dataset and placing it in the correct folder in your Google Drive. Instructions for running yourself are available in teh notebook.
+
+## Video
+[![](https://markdown-videos.deta/youtube/ExF9zncgE1A)](https://youtu.be/ExF9zncgE1A)
